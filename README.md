@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/Developer752/Marketingbooster/main/Untitled%20design.jpg)
-<h1 align="center">Ali Hadier</h1>
-<h3 align="center">First, solve the problem. Then, write the code</h3>
+<h1 align="center">Marketing Booster</h1>
+<h3 align="center">Elevating businesses through innovative software solutions. Your success, our code.</h3>
 
 
 
