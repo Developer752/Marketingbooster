@@ -1,4 +1,4 @@
-![logo](https://github.com/Professorwired/Professorwired/blob/main/2288690.jpg)
+![logo](https://raw.githubusercontent.com/Developer752/Marketingbooster/main/Untitled%20design.jpg)
 <h1 align="center">Ali Hadier</h1>
 <h3 align="center">First, solve the problem. Then, write the code</h3>
 
